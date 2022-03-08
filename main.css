@@ -1,0 +1,13 @@
+
+.card-body {
+  padding: 7px;
+}
+
+.thumb {
+  height: 250px;
+  /* podesavanje velicine slike */
+}
+
+#info {
+  display: none;
+}
